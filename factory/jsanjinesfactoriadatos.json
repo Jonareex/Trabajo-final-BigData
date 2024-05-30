@@ -1,0 +1,9 @@
+{
+	"name": "jsanjinesfactoriadatos",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a4b6b310-50e5-4c14-a916-429a4d04c9fc",
+		"tenantId": "74b9935a-97d7-45df-8484-d0e601caae83"
+	}
+}
